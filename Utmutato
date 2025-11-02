@@ -1,1 +1,20 @@
-# Laravel telepítés 
+# Laravel telepítési útmutató (magyar)  
+**Nulláról futó app 5 perc alatt**  
+
+## 📋 Előfeltételek  
+A Laravel használatához a következő programokra lesz szükséged:  
+
+- **PHP** ≥ 8.1  
+- **Composer** (PHP csomagkezelő)  
+- **Webszerver** (pl. Apache, Nginx vagy a beépített `php artisan serve`)  
+- **Adatbázis** (MySQL, PostgreSQL, SQLite, SQL Server)  
+- **Node.js + NPM** (opcionális – Vite / Inertia / Livewire esetén)  
+
+### Verziók gyors ellenőrzése  
+
+```bash
+~ php -v              # pl. PHP 8.2.24
+~ composer --version  # pl. Composer 2.7.9
+~ node -v             # pl. v20.17.0
+~ npm -v              # pl. 10.8.2
+~ mysql --version     # pl. Ver 8.0.36
