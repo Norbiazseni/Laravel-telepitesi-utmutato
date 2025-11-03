@@ -42,7 +42,7 @@ Starting Laravel development server: http://127.0.0.1:8000
 A futó projekt itt lesz elérhető:
 http://127.0.0.1:8000
 
-## 5. Környezeti beállítások (`.env` beállítása)
+## 4. Környezeti beállítások (`.env` beállítása)
 
 Másold le a példát:
 
