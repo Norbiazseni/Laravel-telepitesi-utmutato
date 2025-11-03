@@ -68,7 +68,7 @@ DB_PASSWORD=jelszo
 
 ```
 
-## 6. Composer update & migrációk futtatása
+## 5. Composer update & migrációk futtatása
 
 ```bash
 composer install
